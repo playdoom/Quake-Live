@@ -1,6 +1,7 @@
-#Quake-Live
+#Quake-Live Korean chatting is now available during the game play
+
 author javalia
-Korean chatting is now available during the game play
+
 Mr. 게렛garrett (javalia) completed his great work using plug-in of "minglx".
 Korean letter of "테스트" is shown when you input ",xptmxm", using the delimiter ","
 However, you should not click the Korean-English switch key.
